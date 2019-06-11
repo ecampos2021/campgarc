@@ -1,0 +1,77 @@
+@import url(https://fonts.googleapis.com/css?family=Bangers);
+@import url(https://fonts.googleapis.com/css?family=Pacifico);
+h1 {
+  font-family: "Bangers";
+  text-align: center;
+  font-size: 70px;
+  color: #aa0606;
+}
+h22 {
+  font-family: "Bangers";
+  text-align: center;
+  font-size: 70px;
+  color: #cb0fff;
+  padding: 10px;
+}
+table {
+  text-align: center;
+  margin: 20px auto;
+}
+h2 {
+  color: #3c07af;
+  text-align: left;
+}
+h3 {
+  color: #078baf;
+  text-align: left;
+  
+}
+th {
+  padding: 10px;
+}
+td {
+  padding: 10px;
+}
+.about-me {
+  color: ;
+}
+li {
+  font-family: "Bangers";
+  text-align: center;
+  font-size: 20px;
+  color: #cb0fff;
+  padding: 20px;
+  font-weight: bold;
+}
+ul {
+  text-align: center;
+  letter-spacing: 30px;
+   
+
+}
+h5 {
+  font-family: "Bangers";
+  text-align: center;
+  font-size: 50px;
+  color: #DAA520;
+  padding: 10px;
+}
+.about-me {
+  text-align: center;
+  font-family: 'Pacifico';
+  border: 3px solid aquamarine;
+  margin: 30px;
+}
+form {
+  text-align: center;
+}
+#mood-boi {
+  color:	#ff07ea;
+  opacity: 0.75;
+}
+body {
+  background-image: url("http://www.lovethisgif.com/uploaded_images/153099-White-Glitter-Background-Gif-Silver-Glitter-Background-Gif-By-Valie83-....gif");
+}
+form {
+  height: 100px;
+}
